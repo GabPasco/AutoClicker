@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/AutoClicker.dir/Autoclicker.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

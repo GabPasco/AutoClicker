@@ -1,0 +1,3 @@
+/home/dex/Documents/Code/C++/AutoClicker/cmake-build-windows-release/CMakeFiles/AutoClicker.dir
+/home/dex/Documents/Code/C++/AutoClicker/cmake-build-windows-release/CMakeFiles/edit_cache.dir
+/home/dex/Documents/Code/C++/AutoClicker/cmake-build-windows-release/CMakeFiles/rebuild_cache.dir

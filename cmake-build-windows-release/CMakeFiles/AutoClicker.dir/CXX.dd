@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/AutoClicker.dir/Autoclicker.cpp.o: dyndep
+
+build CMakeFiles/AutoClicker.dir/Console.cpp.o: dyndep
+
